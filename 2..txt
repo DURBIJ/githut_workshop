@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature1 updated file
 by raushan
+=======
+changes made by sunny in 2
+>>>>>>> 9368e29416e436f94b259340fe6a21582acc292f
